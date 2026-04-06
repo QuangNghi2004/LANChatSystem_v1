@@ -1,0 +1,11 @@
+=== HƯỚNG DẪN TẢI 2 FILE JAR CẦN THIẾT ===
+
+Bỏ 2 file .jar này vào thư mục lib/ (cùng chỗ với file này):
+
+1. mysql-connector-java-8.0.22.jar
+   Link tải: https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.22/mysql-connector-java-8.0.22.jar
+
+2. protobuf-java-3.11.4.jar
+   Link tải: https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar
+
+Sau khi bỏ 2 file vào lib/, lỗi đỏ trong VS Code sẽ tự mất.
